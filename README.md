@@ -5,19 +5,7 @@
 
 <h2 align="center">Hi there!🤘</h2>
 <p align="center">
-  <samp>My name is Darsen, I'm from Moscow! <br> <br> I am a Fullstack JavaScript/TypeScript developer. 😎
-  </samp>
-  <br> <br>
-</p>
-
-
-<h2 align="center">My projects 👨‍💻</h2>
-
-<p align="center">
-  <samp>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a>
-  </samp>
-  <br> <br>
-  <samp>Also check out my website: <a href="https://d4rsen.vercel.app" target="_blank">d4rsen.vercel.app</a>
+  <samp>My name is Almambet, I'm from Moscow! <br> <br> I am a Fullstack JavaScript developer. 😎
   </samp>
   <br> <br>
 </p>
