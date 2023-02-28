@@ -37,7 +37,6 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)
   ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
   ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
-  ![Jwt](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens)
   ![PostgreSQL](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
   ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
