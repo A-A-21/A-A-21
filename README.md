@@ -3,7 +3,7 @@
 </div>
 
 
-<h2 align="center">Hi there!🤘</h2>
+<h2 align="center">Hi there!</h2>
 <p align="center">
   <samp>My name is Almambet, I'm from Kyrgyzstan! <br> <br> I am a Fullstack JavaScript developer. 😎
   </samp>
